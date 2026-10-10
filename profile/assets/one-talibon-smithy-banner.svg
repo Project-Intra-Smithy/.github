@@ -1,52 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="580" viewBox="0 0 1600 580" role="img" aria-labelledby="title desc">
-<title id="title">Project Intra Smithy — ONE TALIBON, a Kirjane Labs and ALZA IT SOLUTIONS collaboration</title>
-<desc id="desc">Industrial silver-on-black ONE TALIBON banner, with Kirjane Labs and ALZA IT SOLUTIONS represented in symmetrical equal-sized partner panels.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="435" viewBox="0 0 1220 435" role="img" aria-labelledby="title desc">
+<title id="title">Project Intra Smithy — ONE TALIBON</title>
+<desc id="desc">Industrial black and metallic silver ONE TALIBON engineering masthead. No emblem. Organization avatar displays beside this artwork in the README.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151b21"/><stop offset=".54" stop-color="#090c10"/><stop offset="1" stop-color="#1b2229"/></linearGradient>
- <linearGradient id="metal" x1="0" y1="0" x2="1" y2=".85"><stop stop-color="#f4f7f9"/><stop offset=".24" stop-color="#cbd3dc"/><stop offset=".55" stop-color="#8794a1"/><stop offset=".79" stop-color="#e5ebf0"/><stop offset="1" stop-color="#a9b5c0"/></linearGradient>
- <linearGradient id="panel" x1="0" x2="1"><stop stop-color="#242c34"/><stop offset=".48" stop-color="#161d24"/><stop offset="1" stop-color="#222a32"/></linearGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a3aebb" stroke-opacity=".055"/></pattern>
- <pattern id="stripe" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 12L12 0" stroke="#a3adba" stroke-opacity=".06"/></pattern>
- <clipPath id="frame"><rect width="1600" height="580" rx="0"/></clipPath>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171c22"/><stop offset=".58" stop-color="#0a0d12"/><stop offset="1" stop-color="#202731"/></linearGradient>
+  <linearGradient id="steel" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#eef2f5"/><stop offset=".28" stop-color="#9ca8b5"/><stop offset=".55" stop-color="#d8e0e7"/><stop offset=".80" stop-color="#8794a2"/><stop offset="1" stop-color="#d2dae3"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#98a8b8" stroke-opacity=".075"/></pattern>
+  <pattern id="diagonal" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V10" stroke="#d6e0ea" stroke-opacity=".08" stroke-width="2"/></pattern>
 </defs>
-<g clip-path="url(#frame)">
-<rect width="1600" height="580" fill="url(#bg)"/>
-<rect width="1600" height="580" fill="url(#grid)"/>
-<path d="M1100-70L1700 390V650H1510L915 10Z" fill="url(#stripe)" opacity=".95"/>
-<path d="M1120-50L1640 470M1170-50L1660 440M1220-50L1690 420" stroke="#9aa6b2" stroke-opacity=".12" stroke-width="1.5"/>
-<path d="M0 0H1600V580H0Z" fill="none" stroke="#d4dde5" stroke-opacity=".25" stroke-width="5"/>
-<path d="M36 34H1564M36 540H1564" stroke="#8593a1" stroke-opacity=".25"/>
-<g transform="translate(1337 239)" fill="none">
- <circle r="182" stroke="#b8c5d1" stroke-opacity=".12" stroke-width="1"/>
- <circle r="146" stroke="#b8c5d1" stroke-opacity=".34" stroke-width="2"/>
- <circle r="110" stroke="#8796a4" stroke-opacity=".28" stroke-dasharray="5 12"/>
- <path d="M0-146L126-73V73L0 146-126 73V-73Z" stroke="url(#metal)" stroke-opacity=".84" stroke-width="3"/>
- <path d="M0-111L96-55V55L0 111-96 55V-55Z" stroke="#8797a7" stroke-opacity=".68" stroke-width="2"/>
- <path d="M-146 0H146M0-146V146M-126-73L126 73M126-73L-126 73" stroke="#a9b5c0" stroke-opacity=".21"/>
- <path d="M-29-28L0-55L29-28V28L0 55-29 28Z" fill="#11161b" stroke="url(#metal)" stroke-width="3"/>
- <path d="M-14-14L0 0L14-14M-14 14L0 0L14 14" stroke="#d0d8e0" stroke-width="4"/>
- <g fill="#d6e0ea" stroke="none"><circle cx="0" cy="-146" r="4"/><circle cx="126" cy="73" r="4"/><circle cx="-126" cy="73" r="4"/></g>
-</g>
-<rect x="84" y="57" width="9" height="47" fill="url(#metal)"/>
-<text x="113" y="75" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="5" fill="#e2e7ed">PROJECT INTRA SMITHY</text>
-<text x="113" y="103" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2.8" fill="#9daab7">ONE TALIBON / ENGINEERING WORKSPACE</text>
-<path d="M84 130H1060" stroke="#a5b1bd" stroke-opacity=".38"/>
-<text x="78" y="279" font-family="Arial, Helvetica, sans-serif" font-size="125" font-weight="800" letter-spacing="-5" fill="url(#metal)">ONE TALIBON</text>
-<text x="86" y="336" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="5.4" fill="#e6ecf1">INTRA-OFFICE PORTAL</text>
-<path d="M86 360H150" stroke="#dae2ea" stroke-width="5"/>
-<text x="86" y="398" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="1.7" fill="#b5c1cc">ENGINEERED TOGETHER. GOVERNED BY EVIDENCE.</text>
-<g>
- <rect x="84" y="442" width="680" height="99" rx="3" fill="url(#panel)" stroke="#b5c1cc" stroke-opacity=".57" stroke-width="1.5"/>
- <rect x="836" y="442" width="680" height="99" rx="3" fill="url(#panel)" stroke="#b5c1cc" stroke-opacity=".57" stroke-width="1.5"/>
- <rect x="84" y="442" width="680" height="4" fill="url(#metal)"/>
- <rect x="836" y="442" width="680" height="4" fill="url(#metal)"/>
- <text x="424" y="469" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4" fill="#96a4b2">COLLABORATING ENGINEERING TEAM</text>
- <text x="1176" y="469" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4" fill="#96a4b2">COLLABORATING ENGINEERING TEAM</text>
- <text x="424" y="516" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" letter-spacing="1" fill="#e8eef3">KIRJANE LABS</text>
- <text x="1176" y="516" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" letter-spacing="1" fill="#e8eef3">ALZA IT SOLUTIONS</text>
- <rect x="778" y="475" width="44" height="44" fill="#10151a" stroke="#a5b1bd" stroke-opacity=".55" transform="rotate(45 800 497)"/>
- <text x="800" y="508" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="300" fill="#e1e9f0">×</text>
-</g>
-<path d="M32 30H64M32 30V62M1536 30H1568V62M32 520V551H64M1536 551H1568V520" fill="none" stroke="#e0e7ed" stroke-opacity=".64" stroke-width="2"/>
-</g>
+<rect width="1220" height="435" fill="url(#bg)"/>
+<rect width="1220" height="435" fill="url(#grid)"/>
+<path d="M915 0H1220V435H1070L775 0Z" fill="url(#diagonal)"/>
+<rect x="20" y="19" width="1180" height="397" fill="none" stroke="#aab8c7" stroke-opacity=".5" stroke-width="2"/>
+<path d="M20 19H230M910 19H1200M20 416H255M1080 416H1200" stroke="#c9d3dd" stroke-opacity=".67" stroke-width="3"/>
+<rect x="62" y="51" width="8" height="35" fill="url(#steel)"/>
+<text x="91" y="68" fill="#edf2f6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="5">PROJECT INTRA SMITHY</text>
+<text x="91" y="94" fill="#aab8c8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600" letter-spacing="3">ONE TALIBON  /  ENGINEERING WORKSPACE</text>
+<path d="M62 122H1050" stroke="#c3ceda" stroke-opacity=".35"/>
+<text x="58" y="238" fill="url(#steel)" font-family="Arial, Helvetica, sans-serif" font-size="103" font-weight="800" letter-spacing="-3.5">ONE TALIBON</text>
+<text x="66" y="301" fill="#edf2f6" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="4">INTRA-OFFICE PORTAL</text>
+<path d="M66 329H133" stroke="#c5d2dc" stroke-width="4"/>
+<text x="65" y="372" fill="#b9c6d2" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing="1.2">ENGINEERED TOGETHER. GOVERNED BY EVIDENCE.</text>
+<path d="M31 52V32H51M1169 32H1189V52M31 384V404H51M1169 404H1189V384" fill="none" stroke="#dee6ed" stroke-opacity=".62" stroke-width="2"/>
 </svg>
