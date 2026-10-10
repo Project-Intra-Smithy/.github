@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="152" viewBox="0 0 1200 152" role="img" aria-labelledby="title desc">
+<title id="title">KIRJANE LABS</title>
+<desc id="desc">Industrial black and metallic silver equal-weight ONE TALIBON collaboration heading.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e252d"/><stop offset=".57" stop-color="#0b1015"/><stop offset="1" stop-color="#252e38"/></linearGradient>
+  <linearGradient id="silver" x1="0" x2="1"><stop stop-color="#e6edf3"/><stop offset=".55" stop-color="#91a0af"/><stop offset="1" stop-color="#dbe4ea"/></linearGradient>
+  <pattern id="lines" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" stroke="#b8c5d2" stroke-opacity=".065" fill="none"/></pattern>
+</defs>
+<rect width="1200" height="152" fill="url(#background)"/>
+<rect width="1200" height="152" fill="url(#lines)"/>
+<rect x="14" y="14" width="1172" height="124" fill="none" stroke="#b1becc" stroke-opacity=".47" stroke-width="2"/>
+<path d="M14 14H263M937 14H1186" stroke="url(#silver)" stroke-width="4"/>
+<text x="600" y="54" fill="#9eafc0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">ONE TALIBON  /  ENGINEERING COLLABORATION</text>
+<text x="600" y="113" fill="url(#silver)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" letter-spacing="2">KIRJANE LABS</text>
+</svg>
