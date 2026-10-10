@@ -1,14 +1,15 @@
-<div align="center">
-
 ![Project Intra Smithy — ONE TALIBON Intra-Office Portal. Engineered together. Governed by evidence. Kirjane Labs × ALZA IT SOLUTIONS.](./assets/one-talibon-smithy-banner.svg)
 
-### THE ENGINEERING HEADQUARTERS FOR ONE TALIBON
+<p align="center"><strong>THE ENGINEERING HEADQUARTERS FOR ONE TALIBON</strong></p>
 
-**A common-system-first engineering program, delivered through clear ownership, bounded execution, verifiable evidence, and human technical acceptance.**
+<p align="center">A common-system-first engineering program, delivered through clear ownership, bounded execution, verifiable evidence, and human technical acceptance.</p>
 
-[Engineering Hub](https://github.com/Project-Intra-Smithy/engineering-hub) · [Master Information Map](https://github.com/Project-Intra-Smithy/engineering-hub/blob/main/MASTER_INFORMATION_MAP.md) · [Program Board](https://github.com/Project-Intra-Smithy/engineering-hub/blob/main/PROGRAM.md) · [Current State](https://github.com/Project-Intra-Smithy/engineering-hub/blob/main/CURRENT_STATE.md)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Project-Intra-Smithy/engineering-hub">Engineering Hub</a> ·
+  <a href="https://github.com/Project-Intra-Smithy/engineering-hub/blob/main/MASTER_INFORMATION_MAP.md">Master Information Map</a> ·
+  <a href="https://github.com/Project-Intra-Smithy/engineering-hub/blob/main/PROGRAM.md">Program Board</a> ·
+  <a href="https://github.com/Project-Intra-Smithy/engineering-hub/blob/main/CURRENT_STATE.md">Current State</a>
+</p>
 
 ---
 
@@ -145,13 +146,9 @@ For active tasks, decisions, and acceptance outcomes, start with the [Engineerin
 
 ---
 
-<div align="center">
-
-**PROJECT INTRA SMITHY**  
-**ONE TALIBON · INTRA-OFFICE SYSTEM**
-
-*Engineered together. Governed by evidence.*
-
-**KIRJANE LABS × ALZA IT SOLUTIONS**
-
-</div>
+<p align="center">
+  <strong>PROJECT INTRA SMITHY</strong><br/>
+  <strong>ONE TALIBON · INTRA-OFFICE SYSTEM</strong><br/>
+  <em>Engineered together. Governed by evidence.</em><br/>
+  <strong>KIRJANE LABS × ALZA IT SOLUTIONS</strong>
+</p>
