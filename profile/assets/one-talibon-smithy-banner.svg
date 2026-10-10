@@ -1,40 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="title description">
-<title id="title">Project Intra Smithy — ONE TALIBON Intra-Office Portal</title>
-<desc id="description">Industrial black and metallic silver engineering headquarters banner. Engineered together. Governed by evidence. Kirjane Labs and Alza IT Solutions.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="580" viewBox="0 0 1600 580" role="img" aria-labelledby="title desc">
+<title id="title">Project Intra Smithy — ONE TALIBON, a Kirjane Labs and ALZA IT SOLUTIONS collaboration</title>
+<desc id="desc">Industrial silver-on-black ONE TALIBON banner, with Kirjane Labs and ALZA IT SOLUTIONS represented in symmetrical equal-sized partner panels.</desc>
 <defs>
-  <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2f5f7"/><stop offset=".34" stop-color="#b7c1cd"/><stop offset=".63" stop-color="#dce2e8"/><stop offset="1" stop-color="#8c98a6"/></linearGradient>
-  <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#15191f"/><stop offset=".55" stop-color="#0c0f14"/><stop offset="1" stop-color="#20252d"/></linearGradient>
-  <linearGradient id="strip" x1="0" x2="1"><stop offset="0" stop-color="#57616d" stop-opacity=".56"/><stop offset="1" stop-color="#57616d" stop-opacity="0"/></linearGradient>
-  <pattern id="mesh" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#87939f" stroke-opacity=".065" stroke-width="1"/></pattern>
-  <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse"><path d="M0 7L7 0" stroke="#d6dee8" stroke-opacity=".027"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151b21"/><stop offset=".54" stop-color="#090c10"/><stop offset="1" stop-color="#1b2229"/></linearGradient>
+ <linearGradient id="metal" x1="0" y1="0" x2="1" y2=".85"><stop stop-color="#f4f7f9"/><stop offset=".24" stop-color="#cbd3dc"/><stop offset=".55" stop-color="#8794a1"/><stop offset=".79" stop-color="#e5ebf0"/><stop offset="1" stop-color="#a9b5c0"/></linearGradient>
+ <linearGradient id="panel" x1="0" x2="1"><stop stop-color="#242c34"/><stop offset=".48" stop-color="#161d24"/><stop offset="1" stop-color="#222a32"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a3aebb" stroke-opacity=".055"/></pattern>
+ <pattern id="stripe" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 12L12 0" stroke="#a3adba" stroke-opacity=".06"/></pattern>
+ <clipPath id="frame"><rect width="1600" height="580" rx="0"/></clipPath>
 </defs>
-<rect width="1400" height="460" fill="url(#ground)"/>
-<rect width="1400" height="460" fill="url(#mesh)"/>
-<rect width="1400" height="460" fill="url(#grain)"/>
-<path d="M920 0H1400V460H1034L886 0Z" fill="#29313a" opacity=".36"/>
-<path d="M1055 0L1210 460M1122 0L1277 460M1190 0L1345 460" stroke="#d1d9e2" stroke-opacity=".07" stroke-width="3"/>
-<rect x="20" y="20" width="1360" height="420" fill="none" stroke="#a6b0bc" stroke-opacity=".33" stroke-width="1"/>
-<path d="M20 20H285M1115 20H1380M20 440H560M1260 440H1380" stroke="url(#steel)" stroke-width="3"/>
-<rect x="42" y="46" width="7" height="40" fill="url(#steel)"/>
-<text x="67" y="62" fill="#bfc7d0" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">PROJECT INTRA SMITHY</text>
-<text x="67" y="87" fill="#7c8896" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">ENGINEERING CONTROL ORGANIZATION</text>
-<path d="M67 117H835" stroke="url(#strip)" stroke-width="1"/>
-<text x="68" y="225" fill="url(#steel)" font-family="Arial, Helvetica, sans-serif" font-size="91" font-weight="800" letter-spacing="-2">ONE TALIBON</text>
-<text x="72" y="285" fill="#d7dfe7" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" letter-spacing="5">INTRA-OFFICE PORTAL</text>
-<rect x="72" y="313" width="72" height="3" fill="url(#steel)"/>
-<text x="72" y="355" fill="#b3bdc7" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="1.15">ENGINEERED TOGETHER. GOVERNED BY EVIDENCE.</text>
-<text x="72" y="411" fill="#e2e7ec" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="2.4">KIRJANE LABS  <tspan fill="#7f8d9b">×</tspan>  ALZA IT SOLUTIONS</text>
-<g transform="translate(1117 210)" fill="none" stroke-linejoin="miter">
-  <circle r="132" stroke="#bdc7d1" stroke-opacity=".14" stroke-width="1.5"/>
-  <circle r="105" stroke="#c6d0db" stroke-opacity=".28" stroke-dasharray="3 9" stroke-width="1.5"/>
-  <path d="M0-85L74-43V43L0 85-74 43V-43Z" stroke="url(#steel)" stroke-width="2.5"/>
-  <path d="M0-64L55-32V32L0 64-55 32V-32Z" stroke="#9ea9b5" stroke-opacity=".58" stroke-width="1"/>
-  <path d="M0-85V85M-74-43L74 43M74-43L-74 43" stroke="#bcc6d1" stroke-opacity=".28" stroke-width="1.3"/>
-  <path d="M-25-20L0-43L25-20V20L0 43-25 20Z" fill="#171d24" stroke="url(#steel)" stroke-width="2"/>
-  <path d="M-14-7L0-21L14-7M-14 8L0 22L14 8" stroke="#a9b5c1" stroke-width="2.5"/>
-  <g fill="#dce4ec" stroke="none"><circle cx="0" cy="-85" r="4"/><circle cx="74" cy="43" r="4"/><circle cx="-74" cy="43" r="4"/></g>
-  <path d="M-168 0H-134M134 0H168M0-155V-134M0 134V155" stroke="#bdc7d1" stroke-opacity=".38"/>
+<g clip-path="url(#frame)">
+<rect width="1600" height="580" fill="url(#bg)"/>
+<rect width="1600" height="580" fill="url(#grid)"/>
+<path d="M1100-70L1700 390V650H1510L915 10Z" fill="url(#stripe)" opacity=".95"/>
+<path d="M1120-50L1640 470M1170-50L1660 440M1220-50L1690 420" stroke="#9aa6b2" stroke-opacity=".12" stroke-width="1.5"/>
+<path d="M0 0H1600V580H0Z" fill="none" stroke="#d4dde5" stroke-opacity=".25" stroke-width="5"/>
+<path d="M36 34H1564M36 540H1564" stroke="#8593a1" stroke-opacity=".25"/>
+<g transform="translate(1337 239)" fill="none">
+ <circle r="182" stroke="#b8c5d1" stroke-opacity=".12" stroke-width="1"/>
+ <circle r="146" stroke="#b8c5d1" stroke-opacity=".34" stroke-width="2"/>
+ <circle r="110" stroke="#8796a4" stroke-opacity=".28" stroke-dasharray="5 12"/>
+ <path d="M0-146L126-73V73L0 146-126 73V-73Z" stroke="url(#metal)" stroke-opacity=".84" stroke-width="3"/>
+ <path d="M0-111L96-55V55L0 111-96 55V-55Z" stroke="#8797a7" stroke-opacity=".68" stroke-width="2"/>
+ <path d="M-146 0H146M0-146V146M-126-73L126 73M126-73L-126 73" stroke="#a9b5c0" stroke-opacity=".21"/>
+ <path d="M-29-28L0-55L29-28V28L0 55-29 28Z" fill="#11161b" stroke="url(#metal)" stroke-width="3"/>
+ <path d="M-14-14L0 0L14-14M-14 14L0 0L14 14" stroke="#d0d8e0" stroke-width="4"/>
+ <g fill="#d6e0ea" stroke="none"><circle cx="0" cy="-146" r="4"/><circle cx="126" cy="73" r="4"/><circle cx="-126" cy="73" r="4"/></g>
 </g>
-<text x="1117" y="400" text-anchor="middle" fill="#8d99a6" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">PRECISION / CONTROL / CONTINUITY</text>
-<path d="M1370 36V65M1355 50H1385M31 397V424M19 411H43" stroke="#c3ccd6" stroke-opacity=".45" stroke-width="1.5"/>
+<rect x="84" y="57" width="9" height="47" fill="url(#metal)"/>
+<text x="113" y="75" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="5" fill="#e2e7ed">PROJECT INTRA SMITHY</text>
+<text x="113" y="103" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2.8" fill="#9daab7">ONE TALIBON / ENGINEERING WORKSPACE</text>
+<path d="M84 130H1060" stroke="#a5b1bd" stroke-opacity=".38"/>
+<text x="78" y="279" font-family="Arial, Helvetica, sans-serif" font-size="125" font-weight="800" letter-spacing="-5" fill="url(#metal)">ONE TALIBON</text>
+<text x="86" y="336" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="5.4" fill="#e6ecf1">INTRA-OFFICE PORTAL</text>
+<path d="M86 360H150" stroke="#dae2ea" stroke-width="5"/>
+<text x="86" y="398" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="1.7" fill="#b5c1cc">ENGINEERED TOGETHER. GOVERNED BY EVIDENCE.</text>
+<g>
+ <rect x="84" y="442" width="680" height="99" rx="3" fill="url(#panel)" stroke="#b5c1cc" stroke-opacity=".57" stroke-width="1.5"/>
+ <rect x="836" y="442" width="680" height="99" rx="3" fill="url(#panel)" stroke="#b5c1cc" stroke-opacity=".57" stroke-width="1.5"/>
+ <rect x="84" y="442" width="680" height="4" fill="url(#metal)"/>
+ <rect x="836" y="442" width="680" height="4" fill="url(#metal)"/>
+ <text x="424" y="469" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4" fill="#96a4b2">COLLABORATING ENGINEERING TEAM</text>
+ <text x="1176" y="469" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4" fill="#96a4b2">COLLABORATING ENGINEERING TEAM</text>
+ <text x="424" y="516" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" letter-spacing="1" fill="#e8eef3">KIRJANE LABS</text>
+ <text x="1176" y="516" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" letter-spacing="1" fill="#e8eef3">ALZA IT SOLUTIONS</text>
+ <rect x="778" y="475" width="44" height="44" fill="#10151a" stroke="#a5b1bd" stroke-opacity=".55" transform="rotate(45 800 497)"/>
+ <text x="800" y="508" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="300" fill="#e1e9f0">×</text>
+</g>
+<path d="M32 30H64M32 30V62M1536 30H1568V62M32 520V551H64M1536 551H1568V520" fill="none" stroke="#e0e7ed" stroke-opacity=".64" stroke-width="2"/>
+</g>
 </svg>
